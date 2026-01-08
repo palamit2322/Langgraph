@@ -11,4 +11,5 @@ dependencies = [
     "langchain-openai>=1.1.6",
     "langgraph>=1.0.5",
     "python-dotenv>=1.2.1",
+    "wikipedia>=1.4.0",
 ]
